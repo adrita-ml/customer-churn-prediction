@@ -25,3 +25,9 @@ Customer churn is a major challenge for businesses. The goal of this project is 
 - Importance of data preprocessing
 - Handling imbalanced datasets
 - Understanding precision vs recall trade-off
+
+## ▶️ How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+2. Run the project:
+   python src/main.py
