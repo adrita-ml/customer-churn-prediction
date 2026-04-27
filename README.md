@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+## 📂 Project Structure
+- src/ → Model training code  
+- data/ → Dataset used
+
 ## 📌 Overview
 This project predicts whether a customer is likely to churn using Machine Learning techniques.
 
